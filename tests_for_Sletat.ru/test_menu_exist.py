@@ -1,7 +1,7 @@
 from SletatPages import SearchHelper
 
 
-def test_yandex_search(browser):
+def test_menu_exist(browser):
     sletat_main_page = SearchHelper(browser)
     sletat_main_page.go_to_site()
     sletat_main_page.enter_word("Франция")
