@@ -1,2 +1,3 @@
 # container
-Container for tests 
+Container for tests of Sletat.ru
+
