@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8878a72a-871e-41c1-9225-831f94b90683" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/test_search_beach_line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_search_charter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_search_city.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_search_country.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_search_dates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_search_hastickets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_search_hotel_rating.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_search_meal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_search_multiple_beach_lines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_search_multiple_hotels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_search_multiple_meals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_search_multiple_resorts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_search_multiple_stars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_search_nights.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_search_of_one_hotel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_search_places.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_search_prices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_search_resort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_search_stars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_search_tickets_include.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_search_tourists.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2CFedSWNJrj5UTMsDYOjl6DLil8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8878a72a-871e-41c1-9225-831f94b90683" name="Changes" comment="" />
+      <created>1658402847352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658402847352</updated>
+    </task>
+    <servers />
+  </component>
+</project>
